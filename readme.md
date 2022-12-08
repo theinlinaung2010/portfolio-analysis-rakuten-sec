@@ -9,7 +9,7 @@ Price histories are pulled from https://emaxis.jp/ website.
 # Functions
 
 - Parse trade history csv file downloaded from Rakuten Securities JP
-- Pull price histories from emaxis URLs
+- Pull price histories from EMAXIS URLs
 - Calculate average acquisition price over time
 - Calculate profit & loss over time
 
@@ -25,3 +25,7 @@ Price histories are pulled from https://emaxis.jp/ website.
 # Limitations
 
 - csv files have to follow a strict format with predefined column headers.
+
+
+## Disclaimer
+The code may contain mistakes. Use at your own risk. The author is not affiliated with nor has any rights to Rakuten Securities and EMAXIS.
