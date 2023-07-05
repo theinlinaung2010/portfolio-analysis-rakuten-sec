@@ -25,6 +25,7 @@ Price histories are pulled from https://emaxis.jp/ website.
 # Limitations
 
 - csv files have to follow a strict format with predefined column headers.
+- does not yet account for selling assets
 
 
 ## Disclaimer
